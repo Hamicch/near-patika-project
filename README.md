@@ -2,6 +2,8 @@
 
 This is a good project to use as a starting point for your AssemblyScript project.
 
+## [Patika Course Page](https://app.patika.dev/courses/web3-fundamentals/practicePartII)
+
 ## Samples
 
 This repository includes a complete project structure for AssemblyScript contracts targeting the NEAR platform.
